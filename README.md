@@ -1,4 +1,4 @@
-# LLM-Aided-Autonomous-Robot-Navigation
+# LLM-aided Human-Robot Interfacing for A Prompt-to-Control Application
 This repository demonstrates a project focused on enhancing human-robot interaction by leveraging large language models (LLMs) for natural language understanding. This approach enables seamless communication between non-expert users and autonomous robots, allowing human operators to issue freeform prompts without needing specialized knowledge or machine-readable commands.
 
 By deploying an LLM-based architecture, the system translates human intent into structured instructions for the robot, defining three key parameters:
